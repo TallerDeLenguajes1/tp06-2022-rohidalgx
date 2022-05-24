@@ -48,5 +48,9 @@ namespace Consola
             resultado = 0;
         }
 
+
+
+        
+
     }
 }

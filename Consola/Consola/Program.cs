@@ -1,4 +1,7 @@
 ﻿using Consola;
+
+
+
 int opcion = 0;
 double num = 0;
 int resultado = 0;
@@ -31,7 +34,7 @@ do
             calc.division(num);
             break;
         case 5:
-            calc.limpiar();
+            calc.limpiar(num);
             break;
     }
 
